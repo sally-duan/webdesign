@@ -1,0 +1,54 @@
+html {height:100%;}
+
+body {
+    background-color:#2F3035;
+    background-image:url(imeeages.jpg);
+    background-size:cover;
+    background-repeat:none;
+}
+#container {
+    margin-left:auto;
+    margin-right:auto;
+    width:1024px;
+}
+header{
+background-color: blue;
+height:250px;
+text-align: center;
+}
+#nav {
+    background-color: rgba(0,0,0,0.31);   
+    padding:20px;
+    text-align:center;
+    font-size:40px;
+}
+
+.no-underline {
+    text-decoration:none;
+}
+#main{
+    padding-top: 80px;
+    padding-left:240px;
+    padding-right:240px;
+    /* background-color: orange;   */
+    height:400px;
+    text-align:center;
+    font-size: large;
+    color:white;
+}
+#footer {
+    background-color: rgba(0,0,0,0.31);  
+    padding: 15px;
+    font-size: x-large;
+    text-align: center;
+}
+h1 {
+    color:white;
+    font-size:28px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+a { 
+    color:rgb(255, 255, 255);
+    /* text-decoration: none; */
+}

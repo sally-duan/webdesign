@@ -1,0 +1,23 @@
+
+#bluebox {
+    padding-top:60px;
+    padding-left: 20px;
+    width: 300px;
+    background-color: blue;
+    height:200px ;
+}
+
+#pinkbox {
+       margin-top: 10px;
+       width: 200px;
+       background-color: pink;
+       height:150px ;
+   }
+
+#brownbox {
+    padding-top:40px;
+    padding-left: 20px;
+    width: 10px;
+    background-color: purple;
+    height:50px ; 
+}
